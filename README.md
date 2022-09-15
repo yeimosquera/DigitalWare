@@ -1,5 +1,5 @@
 <!DOCTYPE html><html><body id="preview">
-<h1 class="code-line" data-line-start=0 data-line-end=1><a id="Softcaribbean_Prueba_Tecnica_0"></a>DigitalWare Prueba Tecnica</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1><a id="DigitalWare_Prueba_Tecnica_0"></a>DigitalWare Prueba Tecnica</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3"><img src="https://admin.catalogodesoftware.com/UserFiles/gen_files/multimedia/imagenes/empresa/logo-digital-ware.png" alt="Alt text" title="Title"></p>
 <h5 class="code-line" data-line-start=4 data-line-end=5><a id="Es_un_api_desarrollada_en_NET_Core_5_con_MySql__como_base_de_datos_y__Dapper_para_asignar_consultas_a_los_objetos_de_manera_simplificada_4"></a>Es un api desarrollada en .NET Core 6, con SQL Server como base de datos y Entity FrameWork para el mapeo de la base de datos, esta separado en capas para la separación de la lógica de negocios de la lógica de diseño.
 </h5><br>
