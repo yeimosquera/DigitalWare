@@ -1,0 +1,14 @@
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\bin\Debug\net6.0\DigitalWare.Model.deps.json
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\bin\Debug\net6.0\DigitalWare.Model.runtimeconfig.json
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\bin\Debug\net6.0\DigitalWare.Model.dll
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\bin\Debug\net6.0\DigitalWare.Model.pdb
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\obj\Debug\net6.0\DigitalWare.Model.csproj.AssemblyReference.cache
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\obj\Debug\net6.0\DigitalWare.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\obj\Debug\net6.0\DigitalWare.Model.AssemblyInfoInputs.cache
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\obj\Debug\net6.0\DigitalWare.Model.AssemblyInfo.cs
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\obj\Debug\net6.0\DigitalWare.Model.csproj.CoreCompileInputs.cache
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\obj\Debug\net6.0\DigitalWare.Model.dll
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\obj\Debug\net6.0\refint\DigitalWare.Model.dll
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\obj\Debug\net6.0\DigitalWare.Model.pdb
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\obj\Debug\net6.0\DigitalWare.Model.genruntimeconfig.cache
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.Model\obj\Debug\net6.0\ref\DigitalWare.Model.dll

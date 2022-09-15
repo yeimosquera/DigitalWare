@@ -1,0 +1,17 @@
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\bin\Debug\net6.0\DigitalWare.data.deps.json
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\bin\Debug\net6.0\DigitalWare.data.runtimeconfig.json
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\bin\Debug\net6.0\DigitalWare.data.dll
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\bin\Debug\net6.0\DigitalWare.data.pdb
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\bin\Debug\net6.0\DigitalWare.Model.dll
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\bin\Debug\net6.0\DigitalWare.Model.pdb
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\DigitalWare.data.csproj.AssemblyReference.cache
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\DigitalWare.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\DigitalWare.data.AssemblyInfoInputs.cache
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\DigitalWare.data.AssemblyInfo.cs
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\DigitalWare.data.csproj.CoreCompileInputs.cache
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\DigitalWare.data.csproj.CopyComplete
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\DigitalWare.data.dll
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\refint\DigitalWare.data.dll
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\DigitalWare.data.pdb
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\DigitalWare.data.genruntimeconfig.cache
+C:\Users\yeison.hinestroza\source\repos\DigitalWare\DigitalWare.data\obj\Debug\net6.0\ref\DigitalWare.data.dll
